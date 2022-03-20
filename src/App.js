@@ -18,7 +18,7 @@ import { render } from '@testing-library/react';
 const raw = JSON.stringify({
   "user_app_id": {
     "user_id": "harsharma0902",
-    "app_id": "c2ee5dd653a0480786247722499234ac"
+    "app_id": /*Your Clarifai user ID*/
   },
   "inputs": [
     {
@@ -35,7 +35,7 @@ const requestOptions = {
   method: 'POST',
   headers: {
     'Accept': 'application/json',
-    'Authorization': 'Key bac7015f67e84ac08f40cb719434bffd'
+    'Authorization': 'Key /*Your API Key*/'
   },
   body: raw
 };

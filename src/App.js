@@ -11,10 +11,6 @@ import Rank from './components/Rank/Rank';
 import './App.css';
 import { render } from '@testing-library/react';
 
-// const app = new Clarifai.App({
-//   apiKey: 'bac7015f67e84ac08f40cb719434bffd'
-// });
-
 const raw = JSON.stringify({
   "user_app_id": {
     "user_id": "harsharma0902",

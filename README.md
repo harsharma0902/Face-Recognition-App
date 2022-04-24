@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Backend Repository Link: https://github.com/harsharma0902/Face-Recognition-App-backend
+
 ## Available Scripts
 
 In the project directory, you can run:
